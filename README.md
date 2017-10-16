@@ -29,4 +29,5 @@ The results are shown in the following table:
 | tensorflow_channel_last  | False       | 2774.71            |
 | torch                    | True        | 10059.49           |
 | torch                    | False       | 2474.31            |
+
 *Ubuntu 16.04 LTS, python 3.5, cuda 8.0, cudnn 5.1, tensorflow 1.3, pytorch 0.2.0
